@@ -65,7 +65,7 @@ gem "kamigo", "0.26.0"
 # gem "kamigo",  path: "../kamigo"
 # gem "kamiliff", path: "../kamiliff"
 
-gem "dotenv-rails", "~> 2.7"
+gem "dotenv-rails", "~> 3.0 "
 
 gem "rqrcode"
 
